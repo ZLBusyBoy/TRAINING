@@ -13,7 +13,6 @@
         <module>DESIGN_PATTERN</module>
         <module>BASIC</module>
         <module>CONCURRENT</module>
-        <module>SPRING_BOOT</module>
         <module>SPRING</module>
     </modules>
 
