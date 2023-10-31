@@ -12,8 +12,8 @@
         <module>ALGO</module>
         <module>DESIGN_PATTERN</module>
         <module>BASIC</module>
-        <module>CONCURRENT</module>
         <module>SPRING</module>
+        <module>DISTRIBUTED_SYSTEM</module>
     </modules>
 
     <properties>

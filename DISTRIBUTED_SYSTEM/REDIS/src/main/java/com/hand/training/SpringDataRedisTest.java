@@ -1,7 +1,9 @@
 package com.hand.training;
 
-public class Main {
+
+public class SpringDataRedisTest {
+
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+
     }
 }

@@ -5,17 +5,26 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.hand.training</groupId>
-        <artifactId>TRAINING</artifactId>
+        <artifactId>DISTRIBUTED_SYSTEM</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>BASIC</artifactId>
-    <packaging>pom</packaging>
-    <modules>
-        <module>CONCURRENT</module>
-        <module>UTILS</module>
-    </modules>
+    <artifactId>REDIS</artifactId>
 
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/org.springframework.data/spring-data-redis -->
+        <dependency>
+            <groupId>org.springframework.data</groupId>
+            <artifactId>spring-data-redis</artifactId>
+            <version>3.0.3</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.redisson</groupId>
+            <artifactId>redisson</artifactId>
+            <version>3.20.0</version>
+        </dependency>
+    </dependencies>
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>

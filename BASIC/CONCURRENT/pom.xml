@@ -5,16 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.hand.training</groupId>
-        <artifactId>TRAINING</artifactId>
+        <artifactId>BASIC</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>BASIC</artifactId>
-    <packaging>pom</packaging>
-    <modules>
-        <module>CONCURRENT</module>
-        <module>UTILS</module>
-    </modules>
+    <artifactId>CONCURRENT</artifactId>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>

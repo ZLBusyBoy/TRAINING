@@ -1,12 +1,15 @@
 
 # TRAINING
 
-## TRAINING-ALGO（算法）
-## TRAINING-DESIGN_PATTERN（设计模式）
-## TRAINING-CONCURRENT（并发）
-## TRAINING-BASIC（基础）
-## TRAINING-CACHE（缓存）
-## TRAINING-MYSQL（数据库）
-## TRAINING-SPRING_BOOT（Spring Boot）
+## ALGO（算法）
+## DESIGN_PATTERN（设计模式）
+## BASIC（基础）
+### CONCURRENT（并发）
+## CACHE（缓存）
+## MYSQL（数据库）
+## SPRING
+### SPRING_BOOT（Spring Boot）
+## DISTRIBUTED_SYSTEM(分布式系统)
+### REDIS
 
 
